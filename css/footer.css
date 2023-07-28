@@ -1,0 +1,19 @@
+footer {
+    background-color: black;
+    min-height: 169px;
+    padding: 55px 0 68px 0;
+    color: #888;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+}
+footer .contacts_policy {
+    width: 407px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer a {
+    color: #888;
+}
