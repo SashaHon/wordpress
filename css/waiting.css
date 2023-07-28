@@ -7,9 +7,7 @@
 .waiting .waiting_header {
     color: #252525;
     text-align: center;
-    font-family: Roboto;
     font-size: 30px;
-    font-style: normal;
     font-weight: 400;
     text-transform: uppercase;
 }
@@ -26,9 +24,7 @@
     margin-top: 18px;
     color: #4A4A4A;
     text-align: center;
-    font-family: Roboto;
     font-size: 23px;
-    font-style: normal;
     font-weight: 400;
 }
 
@@ -51,9 +47,7 @@
     margin-top: 26px;
     color: #4A4A4A;
     text-align: center;
-    font-family: Roboto;
     font-size: 15px;
-    font-style: normal;
     font-weight: 300;
     line-height: 21px;
 }

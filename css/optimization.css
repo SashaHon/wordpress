@@ -17,9 +17,7 @@
 
 .optimization .optimization_wrapper .optimization_header {
     color: #299CBD;
-    font-family: Roboto;
     font-size: 30px;
-    font-style: normal;
     font-weight: 900;
     text-transform: uppercase;
 }
@@ -27,17 +25,14 @@
 .optimization .optimization_wrapper .optimization_text {
     margin-top: 25px;
     color: #4A4A4A;
-    font-family: Roboto;
     font-size: 17px;
-    font-style: normal;
     font-weight: 300;
     line-height: 27px;
 }
 
 .optimization .optimization_wrapper .bold {
     color: #4A4A4A;
-    font-family: Roboto;
     font-size: 17px;
-    font-style: normal;
+    font-style: 700;
     font-weight: 700;
 }

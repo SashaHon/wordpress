@@ -3,13 +3,13 @@ footer {
     min-height: 169px;
     padding: 55px 0 68px 0;
     color: #888;
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 15px;
     font-style: normal;
     font-weight: 300;
+    line-height: 24px;
 }
 footer .contacts_policy {
-    width: 407px;
     margin: 0 auto;
     text-align: center;
 }
